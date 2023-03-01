@@ -14,8 +14,11 @@ https://effortless-fairy-13613a.netlify.app
 
 ## Herramientas 
 https://developer.mozilla.org
+
 https://www.youtube.com/@FalconMasters
+
 https://www.w3schools.com/
+
 https://campus.open-bootcamp.com/cursos/15
 ## Como clonar el repositorio
 Dirigirse a la rama dev y luego ; 
