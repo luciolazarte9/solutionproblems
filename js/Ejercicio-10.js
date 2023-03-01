@@ -1,4 +1,4 @@
-let numero = parseInt(prompt("Ingresa un número"));
+let numero = parseInt(prompt("Ingresa un numero"));
 
 if (numero % 2 === 0) {
   document.write(numero + " es divisible por 2");
